@@ -1,0 +1,4 @@
+secret.key
+honeypot_data.db
+__pycache__/
+*.pyc
